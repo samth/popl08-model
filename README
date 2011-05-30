@@ -1,0 +1,8 @@
+Formal Models of the system in the POPL 2008 paper
+"The Design and Implementation of Typed Scheme"
+by Tobin-Hochstadt and Felleisen.
+
+Note that the current implementation of Typed Racket
+is significantly different from this model.  See
+the paper "Logical Types for Untyped Languages", ICFP
+2010, for details.
